@@ -13,7 +13,7 @@ void func(int* num1, int num2) {
 
 int main() {
 	setlocale(LC_ALL, "Russian");
-
+	// jhjk---jk
 	std::cout << " Задача 1 \n";
 	const int size = 10;
 	int arr[size]{ 15,18,35,44,87,12,85,22,36,51 };
